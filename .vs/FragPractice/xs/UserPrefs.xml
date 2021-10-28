@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F764DD42-3929-4A02-8CC8-59FB57E82395}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FragPractice/Activities/PlayQuoteActivity.cs">
+    <Files>
+      <File FileName="FragPractice/MainActivity.cs" Line="21" Column="1" />
+      <File FileName="FragPractice/Shakespeare.cs" Line="27" Column="6" />
+      <File FileName="FragPractice/Fragments/PlayQuoteFragment.cs" Line="24" Column="1" />
+      <File FileName="FragPractice/Activities/PlayQuoteActivity.cs" Line="11" Column="6" />
+      <File FileName="FragPractice/Fragments/TitlesFragment.cs" Line="54" Column="59" />
+      <File FileName="FragPractice/Resources/layout/content_main.xml" Line="11" Column="45" />
+      <File FileName="FragPractice/Resources/layout/activity_main.xml" Line="8" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FragPractice" expanded="True">
+            <Node name="FragPractice" expanded="True">
+              <Node name="Activities" expanded="True">
+                <Node name="PlayQuoteActivity.cs" selected="True" />
+              </Node>
+              <Node name="Fragments" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FragPractice AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ed/Projects/FragPractice/FragPractice/Fragments/PlayQuoteFragment.cs" relfile="FragPractice/Fragments/PlayQuoteFragment.cs" line="24" column="1" />
+      <Breakpoint file="/Users/ed/Projects/FragPractice/FragPractice/Activities/PlayQuoteActivity.cs" relfile="FragPractice/Activities/PlayQuoteActivity.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

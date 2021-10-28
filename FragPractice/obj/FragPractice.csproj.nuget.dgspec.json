@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ed/Projects/FragPractice/FragPractice/FragPractice.csproj": {}
+  },
+  "projects": {
+    "/Users/ed/Projects/FragPractice/FragPractice/FragPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ed/Projects/FragPractice/FragPractice/FragPractice.csproj",
+        "projectName": "FragPractice",
+        "projectPath": "/Users/ed/Projects/FragPractice/FragPractice/FragPractice.csproj",
+        "packagesPath": "/Users/ed/.nuget/packages/",
+        "outputPath": "/Users/ed/Projects/FragPractice/FragPractice/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.Fragment": {
+              "target": "Package",
+              "version": "[1.3.6.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
